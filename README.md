@@ -10,7 +10,7 @@ Profiles REST API course code.
 `source ~/env/bin/activate` - Activate virtural environment  
 `deactivate` - Deactivate virtual environment  
 `pip install -r requirements.txt` - Install requirements from requirements file  
-`python manage.py runserver 0.0.0.0:8000` - runserver on port 8000
+`python manage.py runserver 0.0.0.0:8000` - run server on port 8000
 
 ## Further help
 
