@@ -14,7 +14,7 @@ Create virtual environment
 Activate virtural environment  
 `source ~/env/bin/activate`
 
-Deactivate virtual environment
+Deactivate virtual environment  
 `deactivate`
 
 - [virtual environment commands cheatsheet](https://python-guide.readthedocs.io/en/latest/dev/virtualenvs/)
