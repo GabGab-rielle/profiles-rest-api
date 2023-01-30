@@ -8,7 +8,7 @@ Connect to vagrnt server
 Logout of vagrant server  
 `exit`
 
-Create virtual environment
+Create virtual environment  
 `python -m venv ~/env`
 
 Activate virtural environment  
