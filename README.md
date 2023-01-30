@@ -2,6 +2,8 @@
 
 Profiles REST API course code.
 
+## Usefull commands
+
 Connect to vagrnt server  
 `vagrant ssh`
 
@@ -16,5 +18,7 @@ Activate virtural environment
 
 Deactivate virtual environment  
 `deactivate`
+
+## Further Help
 
 - [virtual environment commands cheatsheet](https://python-guide.readthedocs.io/en/latest/dev/virtualenvs/)
