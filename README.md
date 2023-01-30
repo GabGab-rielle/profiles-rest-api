@@ -2,7 +2,7 @@
 
 Profiles REST API course code.
 
-## Usefull commands
+## Useful commands
 
 Connect to vagrnt server  
 `vagrant ssh`
